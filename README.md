@@ -87,6 +87,4 @@ python app.py
 
 
 ## 👨‍💻 Author
-
-Your Name
 GitHub: https:https://github.com/Jahnavi2014
